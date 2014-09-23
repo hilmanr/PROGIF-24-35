@@ -7,3 +7,5 @@ while read line; do
 		wget download "$line"
 	fi;
 done < sed-img.txt
+
+#test edit???
